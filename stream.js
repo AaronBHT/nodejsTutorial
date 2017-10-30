@@ -3,10 +3,10 @@
 /* 
  How to start:
  cmd window
- C:\Users\Wenpeng\node-app\codeSchoolTutorial>node stream.js
+ C:\node-app\codeSchoolTutorial>node stream.js
 
  a new cmd window
- C:\Users\Wenpeng\mycurl> curl -d 'hello' http://localhost:8080
+ C:\mycurl> curl -d 'hello' http://localhost:8080
 */
 // var http = require('http');
 // http.createServer(function(resquest, response) {
