@@ -2,10 +2,10 @@
 /* 
  How to start:
  cmd window
- C:\Users\Wenpeng\node-app\codeSchoolTutorial>node uploading.js
+ C:\node-app\codeSchoolTutorial>node uploading.js
 
  a new cmd window
- C:\Users\Wenpeng\mycurl> curl --file qqq.mp3 http://localhost:8080
+ C:\mycurl> curl --file qqq.mp3 http://localhost:8080
  */
 var fs = require('fs');
 var http = require('http');
